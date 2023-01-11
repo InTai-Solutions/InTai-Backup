@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InTai-Backup", "InTai-Backup\InTai-Backup.csproj", "{86BF284B-DEB9-4A1F-BB02-ED8FB531B943}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel", "ViewModel\ViewModel.csproj", "{FE7419EC-65CF-4EC8-8445-E05058A4EC0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{ADA7E41C-8196-49CB-A4B0-916B48F0903B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{86BF284B-DEB9-4A1F-BB02-ED8FB531B943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86BF284B-DEB9-4A1F-BB02-ED8FB531B943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86BF284B-DEB9-4A1F-BB02-ED8FB531B943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7419EC-65CF-4EC8-8445-E05058A4EC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7419EC-65CF-4EC8-8445-E05058A4EC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7419EC-65CF-4EC8-8445-E05058A4EC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7419EC-65CF-4EC8-8445-E05058A4EC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA7E41C-8196-49CB-A4B0-916B48F0903B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA7E41C-8196-49CB-A4B0-916B48F0903B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA7E41C-8196-49CB-A4B0-916B48F0903B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA7E41C-8196-49CB-A4B0-916B48F0903B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
